@@ -1,5 +1,5 @@
 # TFT-Deauther
-This project provides User Interface for TFT/LCD based displays for Deauther device.
+This project provides User Interface using TFT/LCD based displays for Deauther device.
 
 Here the list of Display Drivers supported 👍
 
